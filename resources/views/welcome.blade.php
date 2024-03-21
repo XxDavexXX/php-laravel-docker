@@ -10,8 +10,8 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
     </head>
-    <body>
-        <img src="{{ asset('imgs/alianza-lima.webp') }}" alt="Mi imagen">
+    <body style="margin:0;">
+        <img style="width:100%;" src="{{ asset('imgs/alianza-lima.webp') }}" alt="Mi imagen">
 
     </body>
 </html>
